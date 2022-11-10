@@ -25,3 +25,6 @@
 
 ## Computer Science
 - https://github.com/ossu/computer-science
+
+## API
+- https://github.com/public-apis/public-apis#index
