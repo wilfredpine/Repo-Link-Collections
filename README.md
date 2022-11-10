@@ -28,3 +28,6 @@
 
 ## API
 - https://github.com/public-apis/public-apis#index
+
+## DevOps
+- https://github.com/bregman-arie/devops-exercises
