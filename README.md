@@ -22,3 +22,6 @@
 
 ## Python
 - https://github.com/Asabeneh/30-Days-Of-Python
+
+## Computer Science
+- https://github.com/ossu/computer-science
